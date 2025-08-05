@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/del.png</file>
+        <file>res/header1.png</file>
+        <file>res/header2.png</file>
+        <file>res/face.jpg</file>
+        <file>res/qiye.png</file>
+        <file>res/out.png</file>
+        <file>res/in.png</file>
+        <file>res/details.png</file>
+        <file>res/goods.png</file>
+        <file>res/table.png</file>
+        <file>res/quit.png</file>
+        <file>res/user.png</file>
+        <file>res/close.png</file>
+        <file>res/file.png</file>
+        <file>res/msg.png</file>
+        <file>res/res.png</file>
+        <file>res/screenshoot_blue.png</file>
+        <file>res/set.png</file>
+        <file>res/download.png</file>
+        <file>res/Recycled.png</file>
+        <file>res/share.png</file>
+        <file>res/up.png</file>
+        <file>res/exit.png</file>
+    </qresource>
+</RCC>
