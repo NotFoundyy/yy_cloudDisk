@@ -11,7 +11,6 @@
 #define ERR(str) QMessageBox::critical(this, "警告", str);
 #define OK(str) QMessageBox::information(this, "提示", str)
 
-//tttt
 namespace Ui {
 class FormLogin;
 }
